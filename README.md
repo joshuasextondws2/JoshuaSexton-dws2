@@ -1,2 +1,2 @@
 # JoshuaSexton-dws2
-This is an api based search app. Search for your favorite super heroes!
+This is an api based search app. Search for your favorite Marvel Comics!
